@@ -65,7 +65,7 @@ main {
   border: none;
   border-radius: 28px;
   cursor: pointer;
-  transition: background-color 0.1s;
+  transition: background-color 0.2s;
 }
 
 .btn-1:active,
@@ -80,7 +80,7 @@ main {
   font-size: 1.6rem;
   line-height: 28px;
   color: var(--color-light-cream);
-  transition: background-color 0.1s;
+  transition: background-color 0.2s;
 }
 
 .header {
@@ -269,7 +269,7 @@ main {
   border: none;
   border-radius: 28px;
   cursor: pointer;
-  transition: background-color 0.1s;
+  transition: background-color 0.2s;
 }
 
 .btn-2:active,
@@ -284,7 +284,7 @@ main {
   font-size: 1.6rem;
   line-height: 28px;
   color: var(--color-light-cream);
-  transition: background-color 0.1s;
+  transition: background-color 0.2s;
 }
 
 .my-work {
@@ -325,14 +325,14 @@ main {
   background-color: var(--color-black);
   border-radius: 50%;
   cursor: pointer;
-  transition: background-color 0.1s;
+  transition: background-color 0.2s;
 }
 .arrow {
   position: absolute;
   top: 38.4%;
   left: 37.5%;
   cursor: pointer;
-  transition: background-color 0.1s;
+  transition: background-color 0.2s;
 }
 
 .circle-arrow:hover,
